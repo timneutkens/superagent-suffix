@@ -1,0 +1,16 @@
+{
+  "name": "superagent-suffix",
+  "version": "0.1.0",
+  "description": "Middleware to add a suffix to superagent request url",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "superagent",
+    "suffix"
+  ],
+  "author": "Tim Neutkens",
+  "license": "MIT"
+}
